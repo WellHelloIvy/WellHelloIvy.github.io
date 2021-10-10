@@ -1850,3 +1850,7 @@ ul.grid > li {
   justify-content: space-evenly;
   margin: 2%;
 }
+
+span.project-label {
+ color: #daa520;
+}
