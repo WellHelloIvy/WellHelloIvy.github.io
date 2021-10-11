@@ -104,7 +104,7 @@
 		// 		return false;
 		// 	});
 
-		// });
+		});
 
 		$(document).keyup(function (e) {
 
