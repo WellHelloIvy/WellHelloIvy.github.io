@@ -1854,3 +1854,7 @@ ul.grid > li {
 span.project-label {
  color: #daa520;
 }
+
+nav > span > i {
+  color: #daa520;
+}
